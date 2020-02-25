@@ -105,11 +105,18 @@ Minimal Preact structure with all the necessary tools to start your project righ
 Another one minimal set with Preact, Typescript and Webpack 4.
 
 **[Preact Homepage Generator](https://thomaswood.me/)** :globe_with_meridians:  
-Quickly spin up a new personal webpage by only needing to modify JSON data.
+Quickly spin up a new personal webpage by only needing to modify JSON data.  
 [Github Project](https://github.com/tomasswood/preact-homepage-generator)
 
 **[Parcel + Preact + Unistore Starter](https://github.com/hwclass/parcel-preact-unistore-starter)**
 Starter pack for lightning-fast prototyping and small/medium size project structure
+
+**[Hello World CSS Animation using a Web Based JSX Compiler](https://www.dataformsjs.com/examples/hello-world/en/preact.htm)** :art:  
+Simple page showing how to use JSX with Preact directly on a web page. No build process needed, all files linked from CDN.  
+[Github Documentation](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md)
+
+**[Web Based JSX Compiler that automatically converts React Components to Preact](https://www.dataformsjs.com/examples/countries-no-spa-preact.htm)** :rocket:  
+The example page is based on a React Demo and uses React Components. The `jsxLoader.js` file automatically converts `React.Component` to `preact.Component` and handles other needs for Preact.
 
 ## Codepens
 
